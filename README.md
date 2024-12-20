@@ -12,3 +12,7 @@ Student Info
 * Student Name: USTH ICT1 
 * Student ID: Not-Vietnamese
 
+* Student Name : Nguyen Duc Anh
+* Student ID: 23BI14013
+
+
